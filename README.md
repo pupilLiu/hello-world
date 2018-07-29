@@ -1,3 +1,6 @@
 # hello-world
 this is the first repository of explorer pupilLiu
-so where are my comments just before?
+
+It's kind of strange to me, but not to bad.
+Interesting.
+so they are here......
